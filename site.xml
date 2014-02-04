@@ -54,5 +54,9 @@
    <feature url="features/org.eclipselabs.stlipse.templates.feature_1.0.13.qualifier.jar" id="org.eclipselabs.stlipse.templates.feature" version="1.0.13.qualifier">
       <category name="org.eclipselabs.stlipse"/>
    </feature>
+   <feature url="features/net.harawata.mybatipse.feature_1.0.0.qualifier.jar" id="net.harawata.mybatipse.feature" version="1.0.0.qualifier">
+      <category name="net.harawata.mybatipse"/>
+   </feature>
    <category-def name="org.eclipselabs.stlipse" label="Stlipse"/>
+   <category-def name="net.harawata.mybatipse" label="MyBatipse"/>
 </site>

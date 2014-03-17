@@ -48,10 +48,10 @@
    <feature url="features/org.eclipselabs.stlipse.templates.feature_1.0.12.201401172115.jar" id="org.eclipselabs.stlipse.templates.feature" version="1.0.12.201401172115">
       <category name="org.eclipselabs.stlipse"/>
    </feature>
-   <feature url="features/org.eclipselabs.stlipse.feature_1.0.13.qualifier.jar" id="org.eclipselabs.stlipse.feature" version="1.0.13.qualifier">
+   <feature url="features/org.eclipselabs.stlipse.feature_1.0.13.201403171628.jar" id="org.eclipselabs.stlipse.feature" version="1.0.13.201403171628">
       <category name="org.eclipselabs.stlipse"/>
    </feature>
-   <feature url="features/org.eclipselabs.stlipse.templates.feature_1.0.13.qualifier.jar" id="org.eclipselabs.stlipse.templates.feature" version="1.0.13.qualifier">
+   <feature url="features/org.eclipselabs.stlipse.templates.feature_1.0.13.201403171628.jar" id="org.eclipselabs.stlipse.templates.feature" version="1.0.13.201403171628">
       <category name="org.eclipselabs.stlipse"/>
    </feature>
    <feature url="features/net.harawata.mybatipse.feature_1.0.0.201402050045.jar" id="net.harawata.mybatipse.feature" version="1.0.0.201402050045">

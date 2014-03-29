@@ -60,6 +60,9 @@
    <feature url="features/net.harawata.mybatipse.feature_1.0.1.201402231608.jar" id="net.harawata.mybatipse.feature" version="1.0.1.201402231608">
       <category name="net.harawata.mybatipse"/>
    </feature>
+   <feature url="features/net.harawata.mybatipse.feature_1.0.2.201403281841.jar" id="net.harawata.mybatipse.feature" version="1.0.2.201403281841">
+      <category name="net.harawata.mybatipse"/>
+   </feature>
    <category-def name="org.eclipselabs.stlipse" label="Stlipse"/>
    <category-def name="net.harawata.mybatipse" label="MyBatipse"/>
 </site>

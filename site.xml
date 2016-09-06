@@ -132,6 +132,9 @@
    <feature url="features/net.harawata.mybatipse.feature_1.0.21.201607202153.jar" id="net.harawata.mybatipse.feature" version="1.0.21.201607202153">
       <category name="net.harawata.mybatipse"/>
    </feature>
+   <feature url="features/net.harawata.mybatipse.feature_1.0.22.201609062021.jar" id="net.harawata.mybatipse.feature" version="1.0.22.201609062021">
+      <category name="net.harawata.mybatipse"/>
+   </feature>
    <category-def name="org.eclipselabs.stlipse" label="Stlipse">
       <description>
          Add support for Stripes Framework (http://stripesframework.org).
